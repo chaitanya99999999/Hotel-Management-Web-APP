@@ -1,2 +1,2 @@
-# Hotel Mangament Web Application
+# Hotel Management Web Application
  
